@@ -3,6 +3,6 @@ html>
   <title>Prueba de PHP</title>
  </head>
  <body>
- <?php echo '<p>Esta es la propuesta que estabamos esperando</p>'; ?>
+ <?php echo '<p>Esto solo lo podemos perder nosotros</p>'; ?>
  </body>
 </html>
