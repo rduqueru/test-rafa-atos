@@ -3,6 +3,6 @@ html>
   <title>Prueba de PHP</title>
  </head>
  <body>
- <?php echo '<p>Esta es la rfp que estabamos esperando</p>'; ?>
+ <?php echo '<p>Esta es la rfp que  MAnuel estaba esperando</p>'; ?>
  </body>
 </html>
